@@ -6,7 +6,7 @@ public class PushingToGit {
 		
 		System.out.println("This is Sample Projct for GitHub Pushing Code");
 		
-		System.out.println("Changes to Program");
+		System.out.println("Changes to Program...");
 		
 	}
 
