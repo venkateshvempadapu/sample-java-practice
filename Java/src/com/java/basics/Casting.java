@@ -5,7 +5,7 @@ public class Casting {
 	public static void main(String[] args) {
 	
 		
-		int a=455;
+		int a=45;
 		char h='z';
 		
 		char venky=(char) a;
